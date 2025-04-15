@@ -29,4 +29,13 @@ Transactions are handled using MongoDB **sessions**, ensuring atomicity and cons
 ```bash
 cd backend
 npm install
-npm start
+node index.js
+```
+
+### Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
